@@ -1,4 +1,3 @@
-read me
 Add-Type -AssemblyName System.Windows.Forms
 $form = New-Object -TypeName system.Windows.Forms.Form
 $label = New-Object -TypeName System.Windows.Forms.Label
